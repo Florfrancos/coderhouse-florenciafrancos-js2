@@ -2,7 +2,7 @@ let remeranegra = 10;
 let remeraroja = 4;
 let remerablanca = 7;
 let opcion;
-const STOCK_BAJO = 3;
+const STOCK_BAJO = 5;
 
 do {
     opcion = parseInt(prompt(
